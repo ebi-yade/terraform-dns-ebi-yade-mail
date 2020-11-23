@@ -1,0 +1,6 @@
+# Terraform
+*.tfvars*
+backup.tf
+.terraform/
+archive/*
+!archive/.keep
